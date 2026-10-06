@@ -1,0 +1,2 @@
+This is a CLI game made entirely with Python and the library Pygame. The course from Boot.Dev is the guideline for this where I was tasked with solving the problems that were presented, and am now encouraged to create features on my own which I will do over time.
+To play the game download into whichever folder you'd like, go to your terminal and navigate to the Asteroids folder and run the game with the built in uv environment by typing `uv venv main.py`
